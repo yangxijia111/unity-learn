@@ -1,6 +1,6 @@
 # Unity + C# 学习笔记
 
-从零开始系统学习 Unity 游戏开发，涵盖 C# 基础、Unity 核心系统、进阶技术到实战项目。
+从零开始系统学习 Unity 游戏开发，涵盖 C# 基础、Unity 核心系统、进阶技术、VR 开发到实战项目。
 
 ## 📚 目录结构
 
@@ -47,7 +47,17 @@
 ├── 07-网络同步基础
 └── 08-Addressables资源管理
 
-05-实战项目/
+05-VR开发/
+├── 01-VR基础概念与环境搭建
+├── 02-XRInteractionToolkit入门
+├── 03-VR交互系统
+├── 04-VR移动与传送
+├── 05-VRUI与3D界面
+├── 06-VR性能优化
+├── 07-VR实战项目-射击游戏
+└── 08-VR多平台发布
+
+06-实战项目/
 ├── 01-2D横版跳跃游戏
 ├── 02-俯视角射击游戏
 ├── 03-RPG对话系统
@@ -60,7 +70,8 @@
 2. **第二阶段**（2-3周）：Unity 基础操作 → 能做简单 2D 游戏
 3. **第三阶段**（3-4周）：Unity 核心系统 → 掌握常用功能
 4. **第四阶段**（4-6周）：进阶技术 → 能独立开发中等复杂度游戏
-5. **第五阶段**（持续）：实战项目 → 积累作品集
+5. **第五阶段**（2-4周）：VR 开发 → 掌握 XR 开发全流程
+6. **第六阶段**（持续）：实战项目 → 积累作品集
 
 ## 💡 使用建议
 
@@ -68,6 +79,14 @@
 - 每个主题都有示例代码和注释
 - 建议边看边动手实践
 - 遇到问题先尝试自己解决，再查阅资料
+
+## 🔗 推荐资源
+
+- [Unity 官方文档](https://docs.unity3d.com/)
+- [Unity Learn 官方教程](https://learn.unity.com/)
+- [XR Interaction Toolkit 文档](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@latest)
+- [Meta Quest 开发者中心](https://developer.meta.com/)
+- [C# 官方文档](https://learn.microsoft.com/zh-cn/dotnet/csharp/)
 
 ---
 
